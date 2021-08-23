@@ -1,1 +1,1 @@
-# ProjetoPatricoExpo
+# ProjetoPraticoExpo
